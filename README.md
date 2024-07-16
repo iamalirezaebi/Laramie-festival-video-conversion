@@ -21,7 +21,7 @@ Converts videos to the correct format using ffmpeg.
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/laramie-festival-video-conversion.git
+git clone https://github.com/iamalirezaebi/laramie-festival-video-conversion.git
 cd laramie-festival-video-conversion
 Install the required dependencies:
 
